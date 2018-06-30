@@ -4,7 +4,7 @@
 
 # Install
 * ```mkdir ~/inc```
-* ```wget https://raw.githubusercontent.com/tarach/dev-bash-prompt/master/prompt.sh > ~/inc/prompt.sh```
+* ```wget https://raw.githubusercontent.com/tarach/bash-dev-prompt/master/prompt.sh > ~/inc/prompt.sh```
 * Edit your .bashrc ```nano ~/.bashrc``` and add 2 lines after PS1 declaration ( prompt variable )
 ```bash
 source ~/inc/prompt.sh
